@@ -6,23 +6,23 @@
 - [West Side CD]("src\West_Side_CD_Benoit_Moussaud-VMWare_Tanzu.pdf")
 
 ## Security & Compliance
-- [Scaling and Orchestrating “Good Bot” with Kubernetes]("src\Aris-Orchestrating-GoodBot-KubeConEU2022.v2.pdf")
-- [Bypassing Falco - How to compromise a cluster without tripping the SOC]("src\BypassingFalco.pdf")
+- [Scaling and Orchestrating “Good Bot” with Kubernetes]("src\Aris-Orchestrating-GoodBot-KubeConEU2022.v2.pdf")  
+- [Bypassing Falco - How to compromise a cluster without tripping the SOC]("src\BypassingFalco.pdf")  
 - [Falco to Pluginfinity and Beyond]("src\KubeCon_EU2022_Falco Maintainer_Track_Falco_to_Pluginfinity_and_Beyond.pdf")
 - [Secure Multi User HPC jobs in Kubernetes with Kyverno]("src\kubecon-eu-2022-lightning.pptx")
 - [Securing Kubernetes Applications by Crafting Custom Seccomp Profiles]("src\kubecon-eu-2022-seccomp.pdf")
-- [ Fun With Continuous Compliance]("src\KubeCon_EU_2022_Fun_With_Continuous_Compliance.pdf")
+- [Fun With Continuous Compliance]("src\KubeCon_EU_2022_Fun_With_Continuous_Compliance.pdf")
 - [How Attackers Use Exposed Prometheus Server to Exploit Kubernetes Clusters]("src\KubeCon_EU_2022_Kubernetes_fingerprinting_with_Prometheus.pdf")
 - [Digging Into Your App's Container Image Layers for Sneaky Vulnerabilities]("src\KubeCon_EU_2022_Pablo_Galego.pdf")
 - [Implementing cert-manager in K8s]("src\KubeCon_EU_2022_Presentation_Template.pdf")
 - [K8s and Active Directory Can Be Friends! How to Use Dex to Bridge the Gap]("src\Kubecon_EU_2022_Tutorial.pdf")
 
 ## Persistence & Backups
-- [ Your Manila CephFS Share Backups Belong to S3]("src\CERN-manila-cephfs-backups.pdf")
+- [Your Manila CephFS Share Backups Belong to S3]("src\CERN-manila-cephfs-backups.pdf")
 - [Longhorn Intro, Deep Dive]("src\Introduction-to-Longhorn.pdf")
 - [Kubernetes Data Protection WG Deep Dive]("src\KubeCon_EU_2022_Data_Protection_WG.pptx.pdf")
-- [Kubernetes SIG Storage Deep Dive]("src\KubeCon_EU_2022_K8s_SIG_Storage_DeepDive.pptx.pdf")
-- [ Kubernetes Persistent Data Challenges – AZ, Region and Multi-Cloud Patterns]("src\Kubernetes_Persistent_Data_Challenges_–_AZ_Region_and_Multi-Cloud Patterns_ChrisMilsted_PatrickMcFadin_v1.pdf")
+- [Kubernetes SIG Storage Deep Dive]("src\KubeCon_EU_2022_K8s_SIG_Storage_DeepDive.pptx.pdf")  
+- [Kubernetes Persistent Data Challenges – AZ Region and Multi-Cloud Patterns]("src\Kubernetes_Persistent_Data_Challenges_–_AZ_Region_and_Multi-Cloud Patterns_ChrisMilsted_PatrickMcFadin_v1.pdf")
 
 ## Observability
 - [gRPC for Microservices: Service Mesh & Observability]("src\gRPC_for_microservices_service-mesh_and_observability.pdf")
@@ -47,7 +47,7 @@
 
 ## Autoscaling, Resources
 
-- [ Autoscaling Kubernetes Deployments:A (Mostly) Practical Guide]("src\Autoscaling_Kubernetes_Deployments_Practical_Guide.pdf")
+- [Autoscaling Kubernetes Deployments:A (Mostly) Practical Guide]("src\Autoscaling_Kubernetes_Deployments_Practical_Guide.pdf")
 - [Autoscaling Elasticsearch for Logs on Kubernetes]("src\Autoscaling_Elasticsearch_for_Logs_on_Kubernetes_2.pdf")
 - [How Lombard Odier Deployed VPA to Increase Resource Usage Efficiency]("src\vpa_sevel.pdf")
 - [ Kubernetes Event-driven Autoscaling with KEDA]("src\KubeCon_EU_2022_KEDA_talk.pdf")
@@ -61,8 +61,8 @@
 ## General
 - [Debugging With Ephemeral Containers]("src\Ephemeral_Containers.pdf")
 - [Build your own Cluster API Provider]("src\Build_your_own_Cluster_API_Provider.pdf")
-- [Crack the FaaS Cold Start and Scalability Bottleneck]("src\Crack_the_FaaS_Cold_Start_and_Scalability_Bottleneck.pdf")
-- [Kubernetes is your platform: Design Patterns For Extensible Controllers]("src\Developing Extensible Controllers.pdf")
+- [Crack the FaaS Cold Start and Scalability Bottleneck]("src\Crack_the_FaaS_Cold_Start_and_Scalability_Bottleneck.pdf")  
+- [Kubernetes is your platform - Design Patterns For Extensible Controllers]("src\Developing Extensible Controllers.pdf")
 - [Effective Disaster Recovery]("src\Effective_Disaster_Recovery_The_Day_We_Deleted_Production.pdf")
 - [From docker push To Bytes on Disk]("src\KubeCon-EU-Inside-Disribution-DRAFT.pdf")
 - [SIG Cloud Provider Portable K8s Across all Clouds, Roadmap and Updates]("src\KubeCon_EU_2022_Cloud_Provider_SIG.pdf")
@@ -74,7 +74,7 @@
 - [Production scale containerized game platform practice in ByteDance]("src\KubeCon_EU_2022_Presentation_Production_scale_containerized_game_platform_practice_in_ByteDance.pdf")
 - [Tweezering Kubernetes Resources: Operating on Operators]("src\KubeCon_EU_2022_Tweezering_Kubernetes_Resources_Operating_on_Operators.pptx.pdf")
 - [What if kube-api cloud be extended via WebAssembly?]("src\KubeCon_EU_2022_What_if.pdf")
-- [How to Migrate 700 Kubernetes Clusters to Cluster API with Zero Downtime]("src\KubeConEU22_MBTI_ClusterAPI_Migrate_700_Clusters.pdf")
+- [How to Migrate 700 Kubernetes Clusters to Cluster API with Zero Downtime]("src\KubeConEU22_MBTI_ClusterAPI_Migrate_700_Clusters.pdf")  
 - [A deep dive into minikube]("src\Minikube Talk KubeCon 2022 Spain.pdf")
 - [Tell Your SD-WAN About Your Service Mesh External Services!]("src\SDWAN-ServiceMesh.pdf")
 
@@ -84,7 +84,7 @@
 - [Introduction to the Kubernetes WG Batch]("src\KubeCon_EU_2022_WG_Batch.pdf")
 
 ## ML
-- [ Unlimited Data Science Libraries, One Container Image, No Installation!]("src\Unlimited_Data_Science_Libraries_One_Container_Image_No_Installation!.pdf")
+- [Unlimited Data Science Libraries, One Container Image, No Installation!]("src\Unlimited_Data_Science_Libraries_One_Container_Image_No_Installation!.pdf")
 
 
 ## Project Updates
