@@ -22,7 +22,7 @@
 - [Longhorn Intro, Deep Dive]("src\Introduction-to-Longhorn.pdf")
 - [Kubernetes Data Protection WG Deep Dive]("src\KubeCon_EU_2022_Data_Protection_WG.pptx.pdf")
 - [Kubernetes SIG Storage Deep Dive]("src\KubeCon_EU_2022_K8s_SIG_Storage_DeepDive.pptx.pdf")  
-- [Kubernetes Persistent Data Challenges – AZ Region and Multi-Cloud Patterns]("src\Kubernetes_Persistent_Data_Challenges_–_AZ_Region_and_Multi-Cloud Patterns_ChrisMilsted_PatrickMcFadin_v1.pdf")
+- [Kubernetes Persistent Data Challenges – AZ Region and Multi-Cloud Patterns]("src\Kubernetes_Persistent_Data_Challenges.pdf")
 
 ## Observability
 - [gRPC for Microservices: Service Mesh & Observability]("src\gRPC_for_microservices_service-mesh_and_observability.pdf")
@@ -62,7 +62,7 @@
 - [Debugging With Ephemeral Containers]("src\Ephemeral_Containers.pdf")
 - [Build your own Cluster API Provider]("src\Build_your_own_Cluster_API_Provider.pdf")
 - [Crack the FaaS Cold Start and Scalability Bottleneck]("src\Crack_the_FaaS_Cold_Start_and_Scalability_Bottleneck.pdf")  
-- [Kubernetes is your platform - Design Patterns For Extensible Controllers]("src\Developing Extensible Controllers.pdf")
+- [Kubernetes is your platform - Design Patterns For Extensible Controllers]("src\Developing_Extensible_Controllers.pdf")
 - [Effective Disaster Recovery]("src\Effective_Disaster_Recovery_The_Day_We_Deleted_Production.pdf")
 - [From docker push To Bytes on Disk]("src\KubeCon-EU-Inside-Disribution-DRAFT.pdf")
 - [SIG Cloud Provider Portable K8s Across all Clouds, Roadmap and Updates]("src\KubeCon_EU_2022_Cloud_Provider_SIG.pdf")
@@ -75,7 +75,7 @@
 - [Tweezering Kubernetes Resources: Operating on Operators]("src\KubeCon_EU_2022_Tweezering_Kubernetes_Resources_Operating_on_Operators.pptx.pdf")
 - [What if kube-api cloud be extended via WebAssembly?]("src\KubeCon_EU_2022_What_if.pdf")
 - [How to Migrate 700 Kubernetes Clusters to Cluster API with Zero Downtime]("src\KubeConEU22_MBTI_ClusterAPI_Migrate_700_Clusters.pdf")  
-- [A deep dive into minikube]("src\Minikube Talk KubeCon 2022 Spain.pdf")
+- [A deep dive into minikube]("src\Minikube_Talk_KubeCon_2022_Spain.pdf")
 - [Tell Your SD-WAN About Your Service Mesh External Services!]("src\SDWAN-ServiceMesh.pdf")
 
 
